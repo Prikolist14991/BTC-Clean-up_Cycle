@@ -1,0 +1,16 @@
+# Made in Blockbench 5.2.2
+newmtl m_1a184297-46cc-90e9-b6b0-3fe93f72f491
+map_Kd cleanupcycle:block/tranzist1
+newmtl m_1d913cda-62ce-e15d-8115-8db252686adc
+map_Kd cleanupcycle:block/tranzizt
+newmtl m_bfe7129c-7b9d-61e4-9cd9-9bfbe0dde686
+map_Kd cleanupcycle:block/lamp
+newmtl m_389c1e4a-5ee0-26b8-4593-d315313a2292
+map_Kd cleanupcycle:block/bottle
+newmtl m_88ef09ff-693f-6dad-019c-929065b328c9
+map_Kd cleanupcycle:block/gigha
+newmtl m_4b82e6dd-731c-0c4e-757d-93ac1603c082
+map_Kd cleanupcycle:block/provod
+newmtl m_1bb23a1e-a108-44f6-8f3f-cbdc2721de54
+map_Kd cleanupcycle:block/base
+newmtl none

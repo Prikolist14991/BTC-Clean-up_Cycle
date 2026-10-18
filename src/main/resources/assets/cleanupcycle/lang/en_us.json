@@ -1,0 +1,11 @@
+{
+  "block.cleanupcycle.reviever_block": "Reviever",
+  "item.cleanupcycle.reviever_block": "Liqueurs Reviever",
+    "message.cleanupcycle.bound": "Respawn point set",
+  "message.cleanupcycle.no_charges": "The Reviever has no charges",
+  "message.cleanupcycle.revived": "The Reviever... remade me? Or is it not me?",
+  "message.cleanupcycle.no_charges_revive": "The Reviever has run out of charges",
+  "item.cleanupcycle.jija_heart": "Something like liqeud and ash?",
+    "item.cleanupcycle.clear_sprey":"Sprey",
+  "itemGroup.cleanupcycle.btc_adds_tab": "CLEAN-UP ~Cycle~"
+}

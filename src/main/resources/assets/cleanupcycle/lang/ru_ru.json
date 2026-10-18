@@ -1,0 +1,11 @@
+{
+  "block.cleanupcycle.reviever_block": "Жижный реаниматор",
+  "item.cleanupcycle.reviever_block": "Жижный реаниматор",
+  "message.cleanupcycle.bound": "Точка возрождения установлена",
+  "message.cleanupcycle.no_charges": "У реаниматора нет зарядов",
+  "message.cleanupcycle.revived": "Реаниматор... воссоздал меня? Или это не я?",
+  "message.cleanupcycle.no_charges_revive": "Заряды реаниматора кончились",
+  "item.cleanupcycle.jija_heart": "Жижная смесь с примесью пепла?",
+  "item.cleanupcycle.clear_sprey":"Спрей",
+  "itemGroup.cleanupcycle.btc_adds_tab": "Clean-up Cycle"
+}

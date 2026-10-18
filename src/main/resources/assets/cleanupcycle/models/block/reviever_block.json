@@ -1,0 +1,16 @@
+{
+  "loader": "forge:obj",
+  "render_type": "cutout",
+  "model": "cleanupcycle:models/block/reviever_block.obj",
+  "flip_v": true,
+  "textures": {
+    "particle": "cleanupcycle:block/base"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [1, 90, 0],
+      "translation": [0, 3.25, 0],
+      "scale": [0.45, 0.45, 0.45]
+    }
+  }
+}

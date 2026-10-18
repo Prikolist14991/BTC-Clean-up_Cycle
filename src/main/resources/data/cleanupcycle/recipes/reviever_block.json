@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB ",
+    "CDF",
+    "ELG"
+  ],
+  "key": {
+    "A": {
+      "item": "corner_progress:transistor"
+    },
+    "B": {
+      "item": "corner_progress:can_empty"
+    },
+    "C": {
+      "item": "corner_progress:electronics"
+    },
+    "D": {
+      "item": "cleanupcycle:jija_heart"
+    },
+    "F": {
+      "item": "corner_progress:fluoriscent_lamp"
+    },
+    "E": {
+      "item": "corner_progress:planks_pack"
+    },
+    "L": {
+      "item": "corner_progress:metal_sheet"
+    },
+    "G": {
+      "item": "corner_progress:wire_coil"
+    }
+  },
+  "result": {
+    "item": "cleanupcycle:reviever_block",
+    "count": 1
+  }
+}
